@@ -49,4 +49,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: filipkraljevski/githubActions:latest
+          tags: filipkraljevski/github_actions:latest
